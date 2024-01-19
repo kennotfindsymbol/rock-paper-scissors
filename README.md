@@ -16,4 +16,4 @@ It is a 5-round game. If you win a round you get 3 points. If you tie with the c
 - See if you win, tie or lose this round.
 - After 5 rounds, you will see your total score.
 
-### View and play here: <link>
+### View and play here: <https://kennotfindsymbol.github.io/rock-paper-scissors/index.html>
