@@ -4,7 +4,7 @@
 
 This is a rock paper scissors game built with HTML, CSS and Javascript, with a little bit of Bootstrap.
 
-This is my project for [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page).
+This is my project for [The Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors).
 
 
 ## How to play
