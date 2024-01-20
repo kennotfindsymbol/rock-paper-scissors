@@ -1,3 +1,5 @@
+console.log("Welcome! Game has been started!"); //To notify the user that game has started. 
+
 function getComputerChoice() {
     items = ['Rock', 'Paper', 'Scissors'];
     return items[Math.floor(Math.random() * items.length)]
@@ -47,4 +49,6 @@ function game() {
         console.log(msg);
     }
     console.log(`You have ${win} wins, ${tie} ties, and ${lose} loses\nYour total score is ${score}`);
-}
+} 
+
+game(); // This will automaticly start the game by calling the function.
