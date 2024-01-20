@@ -1,0 +1,33 @@
+body {
+    padding: 4rem;
+}
+
+h1, h3, h4 {
+    text-align: center;
+    padding: 1rem;
+}
+h4 {
+    background-color: yellow;
+    color: white;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+button img{
+    width: 10rem;
+}
+
+.score-container {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.score-container > div{
+    text-align: center;
+}
